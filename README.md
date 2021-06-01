@@ -1,6 +1,6 @@
 # Vimages
 
-A simple personal image uploader and gallery built using Vue.js and the Imgur API.+
+A simple personal image uploader and gallery built using Vue.js and the Imgur API.
 
 ## Live Demo
 
