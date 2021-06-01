@@ -2,6 +2,10 @@
 
 A simple personal image uploader and gallery built using Vue.js and the Imgur API.+
 
+## Live Demo
+
+https://vimages-f910f.web.app/
+
 ## Steps to Run Locally
 
 ### Create Imgur API Client
